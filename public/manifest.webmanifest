@@ -1,0 +1,20 @@
+{
+    "name": "budget-tracker",
+    "short_name": "Tracker App",
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "sizes": "70x70",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "sizes": "86x86",
+        "type": "image/png"
+      }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "/",
+    "display": "standalone"
+  }
